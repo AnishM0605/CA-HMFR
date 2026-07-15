@@ -337,9 +337,9 @@ This produces more contextually relevant retrieval results for complex fashion q
 Clone the repository
 
 ```bash
-git clone https://github.com/<username>/fashion-retrieval.git
+git clone https://github.com/AnishM0605/CA-HMFR.git
 
-cd fashion-retrieval
+cd CA-HMFR
 ```
 
 Install dependencies
