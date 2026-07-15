@@ -1,0 +1,14 @@
+torch
+torchvision
+transformers
+faiss-cpu
+numpy
+pandas
+opencv-python
+Pillow
+matplotlib
+tqdm
+scikit-learn
+spacy
+huggingface_hub
+sentencepiece

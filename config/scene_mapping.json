@@ -1,0 +1,144 @@
+{
+    "office": [
+        "office",
+        "office cubicle",
+        "conference room",
+        "meeting room",
+        "boardroom",
+        "cubicle",
+        "classroom",
+        "computer room",
+        "server room"
+    ],
+
+    "park": [
+        "park",
+        "botanical garden",
+        "forest path",
+        "playground",
+        "garden",
+        "picnic area",
+        "arboretum"
+    ],
+
+    "street": [
+        "street",
+        "crosswalk",
+        "sidewalk",
+        "downtown",
+        "plaza",
+        "city",
+        "alley",
+        "road",
+        "streetlight",
+        "market"
+    ],
+
+    "runway": [
+        "stage/indoor",
+        "stage/outdoor",
+        "arena/performance",
+        "runway",
+        "catwalk",
+        "ballroom",
+        "television studio",
+        "auditorium",
+        "stage"
+    ],
+
+    "shopping": [
+        "shopping mall",
+        "dressing room",
+        "beauty salon",
+        "clothing store",
+        "boutique",
+        "department store",
+        "shoe shop"
+    ],
+
+    "sports": [
+        "gymnasium",
+        "martial arts gym",
+        "locker room",
+        "stadium",
+        "sports center",
+        "fitness center",
+        "basketball court",
+        "ice rink",
+        "swimming pool"
+    ],
+
+    "home": [
+        "living room",
+        "bedroom",
+        "kitchen",
+        "bathroom",
+        "dining room",
+        "home office",
+        "closet",
+        "nursery"
+    ],
+
+    "transport": [
+        "airport",
+        "airport terminal",
+        "train station",
+        "bus station",
+        "subway",
+        "platform"
+
+    ],
+
+    "restaurant": [
+        "restaurant",
+        "cafeteria",
+        "coffee shop",
+        "bar",
+        "pub",
+        "dining hall",
+        "food court"
+    ],
+
+    "studio": [
+        "art studio",
+        "television studio",
+        "photo studio",
+        "recording studio",
+        "broadcast studio"
+    ],
+
+    "indoor": [
+        "clean room",
+        "hospital room",
+        "hospital",
+        "biology laboratory",
+        "laboratory",
+        "chemistry lab",
+        "library",
+        "museum",
+        "gallery",
+        "corridor",
+        "hall",
+        "waiting room",
+        "nursing home",
+        "clinic",
+        "operating room",
+        "church",
+        "chapel",
+        "elevator lobby",
+        "elevator/door"
+    ],
+
+    "outdoor": [
+        "beach",
+        "mountain",
+        "field",
+        "lake",
+        "river",
+        "forest",
+        "desert",
+        "farm",
+        "waterfall",
+        "campsite"
+    ]
+}
