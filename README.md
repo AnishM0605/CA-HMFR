@@ -482,7 +482,6 @@ This richer representation enables better handling of compositional and context-
 - Retrieval quality depends on caption generation accuracy.
 - Clothing attribute extraction relies on heuristic parsing.
 - Scene recognition may be imperfect for ambiguous environments.
-- The current FAISS index is memory-based and not distributed.
 - Very fine-grained garment relationships remain challenging.
 
 ---
